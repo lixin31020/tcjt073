@@ -12,5 +12,7 @@ public class Test1 {
         System.out.println("马保生");
         System.out.println("我叫左晟!大象，大象，大象~~~~~~~~");
         System.out.println("小屁孩，MMB");
+        System.out.println("小屁孩，小牙签");
     }
+
 }
